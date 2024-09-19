@@ -1,0 +1,14 @@
+D:\magang\training_dotnet\oop\Tugas\bin\Debug\net8.0\Tugas.exe
+D:\magang\training_dotnet\oop\Tugas\bin\Debug\net8.0\Tugas.deps.json
+D:\magang\training_dotnet\oop\Tugas\bin\Debug\net8.0\Tugas.runtimeconfig.json
+D:\magang\training_dotnet\oop\Tugas\bin\Debug\net8.0\Tugas.dll
+D:\magang\training_dotnet\oop\Tugas\bin\Debug\net8.0\Tugas.pdb
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.AssemblyInfoInputs.cache
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.AssemblyInfo.cs
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.csproj.CoreCompileInputs.cache
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.dll
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\refint\Tugas.dll
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.pdb
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\Tugas.genruntimeconfig.cache
+D:\magang\training_dotnet\oop\Tugas\obj\Debug\net8.0\ref\Tugas.dll
